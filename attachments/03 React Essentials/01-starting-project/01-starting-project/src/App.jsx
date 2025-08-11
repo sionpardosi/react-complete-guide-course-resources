@@ -1,6 +1,7 @@
-function App() {
-  return (
-    <div>
+
+function Header() {
+  return 
+      (
       <header>
         <img src="src/assets/react-core-concepts.png" alt="Stylized atom" />
         <h1>React Essentials</h1>
@@ -9,6 +10,15 @@ function App() {
           going to build!
         </p>
       </header>
+      );
+}
+
+Header ();
+
+function App() {
+  return (
+    <div>
+      <Header/>
       <main>
         <h2>Time to get started!</h2>
       </main>
@@ -17,3 +27,4 @@ function App() {
 }
 
 export default App;
+ 

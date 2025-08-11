@@ -1,0 +1,21 @@
+{
+  "name": "react-complete-guide-course-resources",
+  "version": "1.0.0",
+  "description": "This repository provides access to code files, code snapshots, slides & other resources that are used or provided by the [React - The Complete Guide](https://acad.link/reactjs) course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sionpardosi/react-complete-guide-course-resources.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sionpardosi/react-complete-guide-course-resources/issues"
+  },
+  "homepage": "https://github.com/sionpardosi/react-complete-guide-course-resources#readme"
+}
